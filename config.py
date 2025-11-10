@@ -8,6 +8,7 @@ class Config:
     EMAIL_USER = os.getenv("EMAIL_USER")
     EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
     RECIPIENT_EMAIL = os.getenv("RECIPIENT_EMAIL")
+    MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 
     # Websites to scrape
     TARGET_WEBSITES = [
