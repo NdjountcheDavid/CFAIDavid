@@ -1,7 +1,11 @@
-numpy
-pandas
+python-dotenv
+pytest
+beautifulsoup4
+feedparser
+smtplib
 mistralai
 requests
 transformers
 torch
 sentencepiece
+schedule
