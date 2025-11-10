@@ -1,0 +1,7 @@
+numpy
+pandas
+mistralai
+requests
+transformers
+torch
+sentencepiece
